@@ -1,2 +1,7 @@
 this is a untracked file.
 Ok! everythins is all ok.
+1st line of untracked file.
+2nd line of untracked file.
+3rd line of untracked file.
+4th line of untracked file.
+5th line of untracked file.
