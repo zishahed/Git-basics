@@ -6,6 +6,5 @@
 6th line of test folder.
 7th line of test folder.
 8th line of test folder.
-Creating a line to stash it.
 
 10th line of test folder.
